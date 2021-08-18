@@ -10,7 +10,7 @@ Backend for WolfWR
 
 ### Installation
 
-- Clone the GitHub repository from [here](https://github.com/shahrk/wolfWr-backend). It is a private repository, if you don&#39;t have access contact [rshah28@ncsu.edu](mailto:rshah28@ncsu.edu).
+- Clone the GitHub repository from [here](https://github.com/shahrk/wolfWr-backend). It is a private repository, if you don&#39;t have access contact [nkpatel8@ncsu.edu](mailto:nkpatel8@ncsu.edu) or [rshah28@ncsu.edu](mailto:rshah28@ncsu.edu).
 - Import the project **as a maven project** in your choice of editor (we prefer [STS](https://spring.io/tools#eclipse))
 - Download &amp; Install [lombok](https://projectlombok.org/download).
   - Run lombok using java -jar lombok.jar (make sure the version of java is the same as the one used in STS)
